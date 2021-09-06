@@ -12,7 +12,7 @@ The original requirement of the project is [here](./statics/cs50_project2_README
 <img src='./statics/edit_profile.png' width='20%'/>
 </div>
 
-![](./statics/demo.mp4)
+<video src='./statics/demo.mp4' width='50%'/>
 
 ## Reusable Components  
 - ButtonGroup

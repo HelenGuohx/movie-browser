@@ -11,8 +11,9 @@ The original requirement of the project is [here](./statics/cs50_project2_README
 <img src='./statics/profile.png' width='20%'/>
 <img src='./statics/edit_profile.png' width='20%'/>
 </div>
-
+<div>
 <video src='./statics/demo.mp4' width='50%'/>
+ </div>
 
 ## Reusable Components  
 - ButtonGroup

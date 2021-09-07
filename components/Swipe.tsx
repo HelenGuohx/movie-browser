@@ -73,11 +73,11 @@ export default function Swipe(props) {
 }
 
 Swipe.propTypes = {
-    actionButton: PropTypes.shape({
+    actionButton: PropTypes.arrayOf(PropTypes.shape({
         title: PropTypes.string.isRequired,
         color: PropTypes.string,
         event: PropTypes.func.isRequired
-    }),
+    })),
     item: PropTypes.any,
 }
 
